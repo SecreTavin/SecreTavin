@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Octávio Arruda!</h1>
-<h3 align="center">Estudante de Engenharia de Software 💻 | Desenvolvendo projetos em **Python 🐍**, explorando **modelos matemáticos 📊** e criando **soluções reais** | Aprofundando e desenvolvendo projetos enquanto mergulho nas matérias de engenharia de software.</h3>
+<h3 align="center">Estudante de Engenharia de Software | Desenvolvendo projetos em Python, explorando modelos matemáticos e criando soluções reais | Aprofundando e desenvolvendo projetos enquanto mergulho nas matérias de engenharia de software.</h3>
 
 - 📫 How to reach me **arrudaoctavio178@gmail.com**
 
