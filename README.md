@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Octávio Augusto!</h1>
 
 <p align="center">
-  <strong>Software Engineering Student | Python Developer | Data Science & Logic Enthusiast</strong>
+  <strong>Computer Science Student | Python Developer | Data Science & Logic Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-I am a Software Engineering student dedicated to building efficient, scalable solutions and exploring the intersection of mathematical modeling and real-world software applications. I specialize in developing data-driven systems and monitoring tools that solve complex technical challenges.
+I am a Computer Science student dedicated to building efficient, scalable solutions and exploring the intersection of mathematical modeling and real-world software applications. I specialize in developing data-driven systems and monitoring tools that solve complex technical challenges.
 
 - 🛠️ **Current Focus:** Developing an industrial monitoring system for bag filters using Python and Flask.
 - 📊 **Key Achievement:** Led a predictive analysis project processing **817,000+ records** with a **0.98 AUC-ROC**.
