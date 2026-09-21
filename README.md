@@ -52,6 +52,9 @@
 
 ### 📫 Connect with me:
 <p align="left">
+  <a href="https://octavio-os2-0.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="30" /></a>
+
+  
   <a href="https://linkedin.com/in/octavio-prazeres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
   
