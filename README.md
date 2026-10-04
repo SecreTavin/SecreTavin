@@ -65,8 +65,8 @@
 
 ###  GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SecreTavin&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SecreTavin&layout=compact&theme=tokyonight" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.shion.dev/api?username=SecreTavin&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=0&refresh=20261004" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SecreTavin&layout=compact&theme=tokyonight&cache_seconds=0&refresh=20261004" alt="Top Languages" height="180">
 </p>
 
 ---
