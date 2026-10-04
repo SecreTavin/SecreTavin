@@ -52,7 +52,7 @@
 └──────────────────────────────────────────────────┘  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠛⠛⠛⠛⠛⠛⠋⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ``` 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Projeto | Descrição |
 |---|---|
@@ -63,7 +63,7 @@
 | [**Drone-DTI**](https://github.com/SecreTavin/Drone-DTI) | Simulador fullstack de logística de frotas de drones em tempo real (Node.js/Express + SPA). |
 | [**System-Pulse**](https://github.com/SecreTavin/System-Pulse) | Utilitário nativo para macOS que monitora uso de CPU direto da barra de menus (Swift). |
 
-### 📈 GitHub Statistics
+###  GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=SecreTavin&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SecreTavin&layout=compact&theme=tokyonight" alt="Top Languages" height="180">
@@ -71,7 +71,7 @@
 
 ---
 
-### 📫 Connect with me:
+###  Connect with me:
 <img src="assets/avatar.gif" width="150" align="right" alt="avatar" />
 <p align="left">
   <a href="https://octavio-os2-0.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="30" /></a>
