@@ -39,7 +39,7 @@
 │                                                  │  ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣼⣹⣿⣇⣸⣿⣿⣿⣻⣚⣿⡿⣿⣿⣦⣤⣀⡉⠃⠀⢀⣀⣤⡶⠛⡏⠀⢀⣼⢸⣿⣿⣿⣿⣿⣿⣿⢋⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
 │ $ cat portfolio.txt                              │  ⣿⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠒⠒⠒⢭⢻⣽⣿⣿⣿⣿⣿⣿⢿⠿⣿⡏⠀⡼⠁⣀⣾⣿⣿⣿⣿⡿⣿⣿⣟⡻⣿⣿⡿⠣⠟⠀⠀⠀⠀⠀⠀⠀⠀
 │                                                  │  ⠸⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⢿⣯⡽⠿⠛⠋⣵⢟⣋⣿⣶⣞⣤⣾⣿⣿⡟⢉⡿⢋⠻⢯⡉⢻⡟⢿⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-│ (https://github.com/SecreTavin) to see:          │  ⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡞⣿⣆⡀⠀⡼⡏⠉⠚⠭⢉⣠⠬⠛⠛⢁⡴⣫⠖⠁⠀⠀⣩⠟⠁⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│ (https://octavio-os2-0.vercel.app) to see:       │  ⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡞⣿⣆⡀⠀⡼⡏⠉⠚⠭⢉⣠⠬⠛⠛⢁⡴⣫⠖⠁⠀⠀⣩⠟⠁⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 │ - Scalable Fullstack applications & APIs         │  ⠀⠈⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣽⣿⣿⣾⠳⡙⣦⡤⠜⠊⠁⠀⣀⡴⠯⠾⠗⠒⠒⠛⠛⠛⠛⠛⠓⠿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 │ - Industrial monitoring systems (0.98 AUC-ROC)   │  ⠀⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⣻⣿⣿⠔⢪⠓⠬⢍⠉⣩⣽⢻⣤⣶⣦⠀⠀⠀⢀⣀⣤⣴⣾⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
 │ - Data-driven solutions & Software Architecture  │  ⠀⠀⠀⠹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣾⡏⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣯⣿⣿⠀⠀⣇⠀⣠⠎⠁⢹⡎⡟⡏⣷⣶⠿⠛⡟⠛⠛⣫⠟⠉⢿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -52,6 +52,17 @@
 └──────────────────────────────────────────────────┘  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠛⠛⠛⠛⠛⠛⠋⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ``` 
+### 🚀 Featured Projects
+
+| Projeto | Descrição |
+|---|---|
+| [**octavio-os**](https://github.com/SecreTavin/octavio-os) | Portfólio pessoal em Next.js + TypeScript. |
+| [**metal-rush**](https://github.com/SecreTavin/metal-rush) | Run-and-gun 2D estilo Metal Slug — Phaser 3 + TypeScript, publicado no Cloudflare. |
+| [**Sistema de Monitoramento Industrial**](https://github.com/SecreTavin/Sistema-de-monitoramento-de-filtros-de-manga-industriais) | Monitoramento em tempo real de filtros industriais (deltaP), com modelo preditivo de 0.98 AUC-ROC. |
+| [**analise-preditiva-acidentes-transito-V2**](https://github.com/SecreTavin/analise-preditiva-acidentes-transito-V2) | Pipeline de ML para prever gravidade de acidentes de trânsito (Random Forest, SVM, Regressão Logística). |
+| [**Drone-DTI**](https://github.com/SecreTavin/Drone-DTI) | Simulador fullstack de logística de frotas de drones em tempo real (Node.js/Express + SPA). |
+| [**System-Pulse**](https://github.com/SecreTavin/System-Pulse) | Utilitário nativo para macOS que monitora uso de CPU direto da barra de menus (Swift). |
+
 ### 📈 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=SecreTavin&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180">
