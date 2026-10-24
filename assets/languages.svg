@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 268" width="1000" height="268" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+<style>
+.edge{stroke-opacity:.45;animation:edge 3s ease-in-out infinite}
+@keyframes edge{0%,100%{stroke-opacity:.3}50%{stroke-opacity:.8}}
+.bar{transform-box:fill-box;transform-origin:left center;animation:grow 1s ease-out both}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#0c2230"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#2de6a0" fill-opacity=".12"/></pattern>
+  <clipPath id="clip"><rect width="1000" height="268" rx="18"/></clipPath>
+  
+</defs>
+<rect width="1000" height="268" rx="18" fill="url(#bg)"/>
+<rect width="1000" height="268" rx="18" fill="url(#dots)"/>
+<rect class="edge" x="1" y="1" width="998" height="266" rx="17" fill="none" stroke="#2de6a0" stroke-width="1.5"/>
+<text x="48" y="58" font-size="24" font-weight="700" fill="#e6edf3">Language Stack</text>
+<text x="952" y="56" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#2de6a0">&gt; stack.scan_ · bytes in public repos</text>
+<circle cx="54" cy="87" r="5" fill="#3178c6"/><text x="68" y="92" font-size="15" fill="#e6edf3">TypeScript</text><text x="480" y="92" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#8b98a9">46.1%</text><rect x="48" y="104" width="432" height="8" rx="4" fill="#16283a"/><rect class="bar" style="animation-delay:0ms" x="48" y="104" width="199.2" height="8" rx="4" fill="#3178c6"/><circle cx="526" cy="87" r="5" fill="#3572A5"/><text x="540" y="92" font-size="15" fill="#e6edf3">Python</text><text x="952" y="92" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#8b98a9">17.2%</text><rect x="520" y="104" width="432" height="8" rx="4" fill="#16283a"/><rect class="bar" style="animation-delay:120ms" x="520" y="104" width="74.3" height="8" rx="4" fill="#3572A5"/><circle cx="54" cy="139" r="5" fill="#178600"/><text x="68" y="144" font-size="15" fill="#e6edf3">C#</text><text x="480" y="144" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#8b98a9">13.8%</text><rect x="48" y="156" width="432" height="8" rx="4" fill="#16283a"/><rect class="bar" style="animation-delay:240ms" x="48" y="156" width="59.7" height="8" rx="4" fill="#178600"/><circle cx="526" cy="139" r="5" fill="#336790"/><text x="540" y="144" font-size="15" fill="#e6edf3">PLpgSQL</text><text x="952" y="144" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#8b98a9">8.3%</text><rect x="520" y="156" width="432" height="8" rx="4" fill="#16283a"/><rect class="bar" style="animation-delay:360ms" x="520" y="156" width="36.0" height="8" rx="4" fill="#336790"/><circle cx="54" cy="191" r="5" fill="#e34c26"/><text x="68" y="196" font-size="15" fill="#e6edf3">HTML</text><text x="480" y="196" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#8b98a9">5.2%</text><rect x="48" y="208" width="432" height="8" rx="4" fill="#16283a"/><rect class="bar" style="animation-delay:480ms" x="48" y="208" width="22.4" height="8" rx="4" fill="#e34c26"/><circle cx="526" cy="191" r="5" fill="#f1e05a"/><text x="540" y="196" font-size="15" fill="#e6edf3">JavaScript</text><text x="952" y="196" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#8b98a9">3.5%</text><rect x="520" y="208" width="432" height="8" rx="4" fill="#16283a"/><rect class="bar" style="animation-delay:600ms" x="520" y="208" width="14.9" height="8" rx="4" fill="#f1e05a"/>
+</svg>

@@ -1,3 +1,25 @@
+<div align="center">
+
+<a href="https://octavio-os2-0.vercel.app" target="_blank"><img src="assets/header.svg" alt="Octávio Augusto · Fullstack Developer" width="100%" /></a>
+
+<img src="assets/city.svg" alt="Contributions over the last year" width="100%" />
+
+<img src="assets/languages.svg" alt="Language stack" width="100%" />
+
+</div>
+
+### Featured Projects
+
+<p align="center">
+  <a href="https://github.com/SecreTavin/octavio-os"><img src="assets/projects/octavio-os.svg" alt="octavio-os" width="49%" /></a>
+  <a href="https://github.com/SecreTavin/metal-rush"><img src="assets/projects/metal-rush.svg" alt="metal-rush" width="49%" /></a>
+  <a href="https://github.com/SecreTavin/analise-preditiva-acidentes-transito-V2"><img src="assets/projects/analise-preditiva-acidentes-transito-V2.svg" alt="analise-preditiva-acidentes-transito-V2" width="49%" /></a>
+  <a href="https://github.com/SecreTavin/Sistema-de-monitoramento-de-filtros-de-manga-industriais"><img src="assets/projects/Sistema-de-monitoramento-de-filtros-de-manga-industriais.svg" alt="Sistema-de-monitoramento-de-filtros-de-manga-industriais" width="49%" /></a>
+  <a href="https://github.com/SecreTavin/Drone-DTI"><img src="assets/projects/Drone-DTI.svg" alt="Drone-DTI" width="49%" /></a>
+  <a href="https://github.com/SecreTavin/System-Pulse"><img src="assets/projects/System-Pulse.svg" alt="System-Pulse" width="49%" /></a>
+</p>
+
+### About
 
 ```text
                                     ⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -51,23 +73,7 @@
 │ $ _                                              │  ⠀⠉⠙⠛⠛⠛⠛⠛⠻⠿⠿⠿⠷⠶⠶⢶⣶⣶⣶⣶⣤⣤⣤⣤⣤⣥⣬⣭⣭⣉⣩⣍⣙⣏⣉⣏⣽⣶⣶⣶⣤⣤⣬⣤⣤⣾⣿⠶⠾⠿⠿⠿⠿⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠃
 └──────────────────────────────────────────────────┘  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠛⠛⠛⠛⠛⠛⠋⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-``` 
-###  Featured Projects
-
-| Projeto | Descrição |
-|---|---|
-| [**octavio-os**](https://github.com/SecreTavin/octavio-os) | Portfólio pessoal em Next.js + TypeScript. |
-| [**metal-rush**](https://github.com/SecreTavin/metal-rush) | Run-and-gun 2D estilo Metal Slug — Phaser 3 + TypeScript, publicado no Cloudflare. |
-| [**Sistema de Monitoramento Industrial**](https://github.com/SecreTavin/Sistema-de-monitoramento-de-filtros-de-manga-industriais) | Monitoramento em tempo real de filtros industriais (deltaP), com modelo preditivo de 0.98 AUC-ROC. |
-| [**analise-preditiva-acidentes-transito-V2**](https://github.com/SecreTavin/analise-preditiva-acidentes-transito-V2) | Pipeline de ML para prever gravidade de acidentes de trânsito (Random Forest, SVM, Regressão Logística). |
-| [**Drone-DTI**](https://github.com/SecreTavin/Drone-DTI) | Simulador fullstack de logística de frotas de drones em tempo real (Node.js/Express + SPA). |
-| [**System-Pulse**](https://github.com/SecreTavin/System-Pulse) | Utilitário nativo para macOS que monitora uso de CPU direto da barra de menus (Swift). |
-
-###  GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SecreTavin&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=0&refresh=20261004" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SecreTavin&layout=compact&theme=tokyonight&cache_seconds=0&refresh=20261004" alt="Top Languages" height="180">
-</p>
+```
 
 ---
 
