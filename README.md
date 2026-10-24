@@ -2,22 +2,7 @@
 
 <a href="https://octavio-os2-0.vercel.app" target="_blank"><img src="assets/header.svg" alt="Octávio Augusto · Fullstack Developer" width="100%" /></a>
 
-<img src="assets/city.svg" alt="Contributions over the last year" width="100%" />
-
-<img src="assets/languages.svg" alt="Language stack" width="100%" />
-
 </div>
-
-### Featured Projects
-
-<p align="center">
-  <a href="https://github.com/SecreTavin/octavio-os"><img src="assets/projects/octavio-os.svg" alt="octavio-os" width="49%" /></a>
-  <a href="https://github.com/SecreTavin/metal-rush"><img src="assets/projects/metal-rush.svg" alt="metal-rush" width="49%" /></a>
-  <a href="https://github.com/SecreTavin/analise-preditiva-acidentes-transito-V2"><img src="assets/projects/analise-preditiva-acidentes-transito-V2.svg" alt="analise-preditiva-acidentes-transito-V2" width="49%" /></a>
-  <a href="https://github.com/SecreTavin/Sistema-de-monitoramento-de-filtros-de-manga-industriais"><img src="assets/projects/Sistema-de-monitoramento-de-filtros-de-manga-industriais.svg" alt="Sistema-de-monitoramento-de-filtros-de-manga-industriais" width="49%" /></a>
-  <a href="https://github.com/SecreTavin/Drone-DTI"><img src="assets/projects/Drone-DTI.svg" alt="Drone-DTI" width="49%" /></a>
-  <a href="https://github.com/SecreTavin/System-Pulse"><img src="assets/projects/System-Pulse.svg" alt="System-Pulse" width="49%" /></a>
-</p>
 
 ### About
 
@@ -74,6 +59,25 @@
 └──────────────────────────────────────────────────┘  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠛⠛⠛⠛⠛⠛⠋⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ```
+
+<div align="center">
+
+<img src="assets/city.svg" alt="Contributions over the last year" width="100%" />
+
+<img src="assets/languages.svg" alt="Language stack" width="100%" />
+
+</div>
+
+### Featured Projects
+
+<p align="center">
+  <a href="https://github.com/SecreTavin/octavio-os"><img src="assets/projects/octavio-os.svg" alt="octavio-os" width="49%" /></a>
+  <a href="https://github.com/SecreTavin/metal-rush"><img src="assets/projects/metal-rush.svg" alt="metal-rush" width="49%" /></a>
+  <a href="https://github.com/SecreTavin/analise-preditiva-acidentes-transito-V2"><img src="assets/projects/analise-preditiva-acidentes-transito-V2.svg" alt="analise-preditiva-acidentes-transito-V2" width="49%" /></a>
+  <a href="https://github.com/SecreTavin/Sistema-de-monitoramento-de-filtros-de-manga-industriais"><img src="assets/projects/Sistema-de-monitoramento-de-filtros-de-manga-industriais.svg" alt="Sistema-de-monitoramento-de-filtros-de-manga-industriais" width="49%" /></a>
+  <a href="https://github.com/SecreTavin/Drone-DTI"><img src="assets/projects/Drone-DTI.svg" alt="Drone-DTI" width="49%" /></a>
+  <a href="https://github.com/SecreTavin/System-Pulse"><img src="assets/projects/System-Pulse.svg" alt="System-Pulse" width="49%" /></a>
+</p>
 
 ---
 
